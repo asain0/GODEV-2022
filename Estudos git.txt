@@ -1,0 +1,16 @@
+Estudo GIT / GITHUB
+
+Sobre: Iniciando os estudos de GIT pela RocketSeat
+Inicio: 19/05/2022
+
+	1.Instalação / Configuração
+	2.Primeiros comandos
+	3.Conceitos
+		GIT: É um sistema de controle de versão.
+		GITHUB: É um repositório associado ao controle de versões do projeto.
+		Branch: É como uma "Linha do tempo" de um projeto. Uma ramificação do projeto principal.
+		Commit: É um ponto de história de uma Branch.
+	4.Comandos
+		git config 
+			Realiza a configuração do git. Existem parâmetros complementares a esse comando, como o [location] que definirá se a configuração será aplicada de forma geral (--global) por exemplo.
+		
