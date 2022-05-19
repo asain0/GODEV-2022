@@ -13,4 +13,9 @@ Inicio: 19/05/2022
 	4.Comandos
 		git config 
 			Realiza a configuração do git. Existem parâmetros complementares a esse comando, como o [location] que definirá se a configuração será aplicada de forma geral (--global) por exemplo.
-		
+		git status
+			Verifica a situação em que um projeto está.
+		git add
+			Acrescenta arquivos ao projeto. Se for colocado apenas um ponto, após o comando, todos os arquivos da pasta atual serão adicionados. Caso deseje um arquivo específico, informar o arquivo.
+		git commit -m
+			Cria um ponto na história da branch. O parâmetro "-m" define uma mensagem/observação sobre esse ponto da história. Isto auxilia que você ou outros usuários saibam do que se trata aquele ponto, ou quais alterações foram feitas, por exemplo.
